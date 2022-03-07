@@ -33,7 +33,7 @@
 		}
 	},
 	"dependencies": {
-		"jsx-dom": "^6.4.23",
+		"jsx-dom": "^7.0.4",
 		"webextension-polyfill": "^0.7.0"
 	},
 	"devDependencies": {
